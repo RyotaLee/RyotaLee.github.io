@@ -3,7 +3,6 @@ title: about
 layout: page
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
 	<title>About</title>
