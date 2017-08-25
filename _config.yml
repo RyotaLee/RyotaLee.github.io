@@ -9,7 +9,7 @@ subtitle: you can not find peace by avoiding life
 description: you can not find peace by avoiding life
 author: li congcong
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
@@ -231,8 +231,8 @@ social_icons:
 
 
 # Sidebar Avatar
-# in directory: /assets/images/avatar.png
-#avatar:
+ in directory: /assets/images/avatar.png
+ avatar: /assets/images/avatar.png
 
 
 # Table Of Contents in the Sidebar
