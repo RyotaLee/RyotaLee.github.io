@@ -7,10 +7,4 @@ tags:
 comments: ture
 ---
 
-<p>
-	第一篇日志，试试评论区
-</p>
-
-<div id="disqus_thread">
-	{% include disqus.html %}
-</div>
+第一篇日志
