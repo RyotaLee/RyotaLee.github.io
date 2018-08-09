@@ -1,10 +1,8 @@
 ---
 layout: page
 title:  "Hello! World"
-date:   2017-08-28 15:39:01 -0600
-tags:
-	- Another Tag
-comments: ture
 ---
+<h1>{{  page.title  }}</h1>
+<p>第一篇日志</p>
 
-第一篇日志
+<p>{{  page.date  |  date_to_string  }}</p>>
