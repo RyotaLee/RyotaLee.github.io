@@ -1,8 +1,0 @@
----
-layout: page
-title:  "Hello! World"
----
-<h1>{{  page.title  }}</h1>
-<p>第一篇日志</p>
-
-<p>{{  page.date  |  date_to_string  }}</p>>
